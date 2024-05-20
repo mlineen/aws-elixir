@@ -1,6 +1,6 @@
 # AWS clients for Elixir
 
-[![Actions Status](https://github.com/aws-beam/aws-elixir/workflows/Build/badge.svg)](https://github.com/aws-beam/aws-elixir/actions)
+[![Actions Status](https://github.com/aws-beam/aws-elixir/actions/workflows/build.yml/badge.svg)](https://github.com/aws-beam/aws-elixir/actions)
 [![Module Version](https://img.shields.io/hexpm/v/aws.svg)](https://hex.pm/packages/aws)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/aws/)
 [![Total Download](https://img.shields.io/hexpm/dt/aws.svg)](https://hex.pm/packages/aws)
